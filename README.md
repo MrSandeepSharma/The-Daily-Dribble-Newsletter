@@ -6,7 +6,7 @@ Thanks for viewing my project, this is `my first solo project` in my journey to 
 
 **all thanks to #Scrimba**
 
-* ![Live Preview]("https://aesthetic-tiramisu-b5f873.netlify.app/")
+* <a href="https://aesthetic-tiramisu-b5f873.netlify.app/">Live Preview</a>
 
 * Screenshot Preview
 
