@@ -2,15 +2,13 @@
 
 ## Welcome! 👋
 
-Thanks for checking out my project This is my First solo project in `my path` to become a `Front-end Developer`
+Thanks for viewing my project, this is `my first solo project` in my journey to become a `front-end developer.`
 
 **all thanks to #Scrimba**
 
- <span>
-        <a href="https://newfmsolutions.vercel.app/01_Newbie/01_qr-code-component-main/" target="_blank" >
-        <img src="https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=&logoColor=white" alt="Frontend Mentor"></a>
-</span>
+* ![Live Preview]("https://aesthetic-tiramisu-b5f873.netlify.app/")
 
 * Screenshot Preview
 
-    ![Frontend Mentor _ QR code component — Mozilla Firefox 12-08-2023 14_53_12](https://github.com/MrSandeepSharma/Frontend-Mentor-Solutions/assets/142038020/80e94192-b2fe-4547-8949-a98824877644)
+  ![The daily dribble news letter — Mozilla Firefox 24-08-2023 15_17_56](https://github.com/MrSandeepSharma/The-Daily-Dribble-Newsletter/assets/142038020/b8897d9a-5aa3-4384-a76b-6b5f1967544f)
+
